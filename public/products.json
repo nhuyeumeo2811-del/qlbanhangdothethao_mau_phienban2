@@ -165,7 +165,7 @@
   },
   {
     "id": 13,
-    "name": "AoChongNangNam",
+    "name": "GiayDaNam",
     "imageKey": "sp13",
     "sizeS": "S",
     "sizeM": "M",
@@ -178,7 +178,7 @@
   },
     {
     "id": 14,
-    "name": "AoChongNangNu",
+    "name": "GiayDiorNu",
     "imageKey": "sp14",
     "sizeS": "S",
     "sizeM": "M",
