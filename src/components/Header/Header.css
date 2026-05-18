@@ -93,6 +93,18 @@
     font-size: 14px;
 }
 
+header-search-form{
+        display: flex;
+    align-items: center;
+    gap: 12px;
+    border: 1px solid #c5d4c8;
+    border-radius: 999px;
+    background: #fff;
+    padding: 4px 6px 4px 18px;
+    box-shadow: 0 2px 12px rgba(26, 71, 42, 0.08);
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+    
 .login-link {
     color: #333;
     text-decoration: none;
