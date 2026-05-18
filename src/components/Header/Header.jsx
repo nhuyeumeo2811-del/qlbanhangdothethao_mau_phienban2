@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Header.css';
 
-import logoImage from '../../img/logo.png';
+import logoImg from '../../img/logo.png';
 import { imageMap } from '../../utils/productImages';
 import { normalizeSearchText, rankProductsBySearch,} from '../../utils/productSearch';
 
@@ -267,7 +267,7 @@ const Header = () => {
                                 aria-label="Về trang chủ"
                             >
                                 <img
-                                    src={logoImage}
+                                    src={logoImg}
                                     alt="Logo"
                                     className="header-logo-image"
                                 />
