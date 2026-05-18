@@ -344,8 +344,7 @@ const Admin = () => {
     bills,
   ]);
 const topSoldProducts = useMemo(() => {
-  const byProduct = invoiceDetails.reduce((map, item)
-=> {
+  const byProduct = invoiceDetails.reduce((map, item) => {
       const pid = Number(item.product_id);
       const quantity = Number(item.quantity || 0);
       map.set(pid, (map.get(pid) || 0) + quantity);
