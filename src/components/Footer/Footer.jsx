@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-left">
           <div className="footer-logo">
-            <img src={logo} alt="Highlands Coffee" className="footer-logo-img" />
+            <img src={logoImg} alt="Highlands Coffee" className="footer-logo-img" />
           </div>
           <p className="footer-copyright">
             ©2025 SaleMini. All rights reserved
