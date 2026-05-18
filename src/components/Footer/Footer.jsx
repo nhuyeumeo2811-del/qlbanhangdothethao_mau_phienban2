@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import logoImg from '../../img/logo.png';
+import logo from '../../img/logo.png';
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
 const Footer = () => {
