@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Quần áo"
+    },
+    
+    {
+        "id": 2,
+        "name": "Giày thể thao"
+    },
+    
+    {
+        "id": 3,
+        "name": "Đồ bó cơ"
+    },
+
+    {
+        "id": 4,
+        "name": "Túi xách & Balo"
+    },
+    {
+        "id": 5,
+        "name": "Phụ kiện tay chân"
+    },
+
+    {
+        "id": 6,
+        "name": "Đồ bảo hộ chấn thương"
+    },
+
+    {
+        "id": 7,
+        "name": "Kính mắt thể thao"
+    },
+
+    {
+        "id": 9,
+        "name": "Thiết bị đeo thông minh"
+    }
+]
