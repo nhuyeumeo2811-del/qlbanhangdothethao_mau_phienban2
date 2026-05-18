@@ -31,7 +31,7 @@ function fmtCurrency(n) {
   return `${fmtNumber(Number(n) || 0)} đ`;
 }
 
-/**const BILL_STATUS_MAP = {
+const BILL_STATUS_MAP = {
   delivered: {
     label: 'Đã giao hàng',
     cls: 'done',
@@ -769,5 +769,4 @@ const vipCustomers = useMemo(() => {
     </div>
   );
 };
-*/
 export default Admin;
